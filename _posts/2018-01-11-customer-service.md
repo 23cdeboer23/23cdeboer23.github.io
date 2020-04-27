@@ -32,3 +32,5 @@ rating: 4.5
 
 <!-- Example of how to import images mid post -->
 <img src="/site/assets/images/11.jpg" />
+
+![walking]({{ site.baseurl }}/assets/images/8.jpg)
