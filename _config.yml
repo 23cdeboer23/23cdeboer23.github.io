@@ -6,7 +6,7 @@ logo: 'assets/images/clogo.png'
 favicon: 'assets/images/clogo.png'
 # baseurl: /site
 # google_analytics: 
-disqus: 'sydnovak'
+disqus: 'claired'
 # mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
