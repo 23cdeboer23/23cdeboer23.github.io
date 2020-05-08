@@ -2,7 +2,7 @@
 layout: post
 title:  "Greg's Test Post"
 author: cd
-categories: [ tutorial ]
+categories: [ ball ]
 image: assets/images/16.jpg
 ---
 
