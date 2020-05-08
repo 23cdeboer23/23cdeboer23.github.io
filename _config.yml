@@ -4,7 +4,7 @@ title: "Mediumish"
 description: "Eat, Run, Ball, Live."
 logo: 'assets/images/clogo.png'
 favicon: 'assets/images/clogo.png'
-baseurl: /site
+# baseurl: /site
 # google_analytics: 
 disqus: 'sydnovak'
 # mailchimp-list: 
